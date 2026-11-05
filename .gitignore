@@ -1,0 +1,9 @@
+*.db
+*.db-journal
+*.log
+*.exe
+*.dll
+webcache/
+php/
+locales/
+Salida/
